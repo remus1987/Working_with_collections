@@ -1,0 +1,11 @@
+C:\Users\Remus Iftimie\Personal_GitHub\Advanced_Collections\bin\Debug\netcoreapp3.1\Advanced_Collections.exe
+C:\Users\Remus Iftimie\Personal_GitHub\Advanced_Collections\bin\Debug\netcoreapp3.1\Advanced_Collections.deps.json
+C:\Users\Remus Iftimie\Personal_GitHub\Advanced_Collections\bin\Debug\netcoreapp3.1\Advanced_Collections.runtimeconfig.json
+C:\Users\Remus Iftimie\Personal_GitHub\Advanced_Collections\bin\Debug\netcoreapp3.1\Advanced_Collections.runtimeconfig.dev.json
+C:\Users\Remus Iftimie\Personal_GitHub\Advanced_Collections\bin\Debug\netcoreapp3.1\Advanced_Collections.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Advanced_Collections\bin\Debug\netcoreapp3.1\Advanced_Collections.pdb
+C:\Users\Remus Iftimie\Personal_GitHub\Advanced_Collections\obj\Debug\netcoreapp3.1\Advanced_Collections.csprojAssemblyReference.cache
+C:\Users\Remus Iftimie\Personal_GitHub\Advanced_Collections\obj\Debug\netcoreapp3.1\Advanced_Collections.AssemblyInfoInputs.cache
+C:\Users\Remus Iftimie\Personal_GitHub\Advanced_Collections\obj\Debug\netcoreapp3.1\Advanced_Collections.AssemblyInfo.cs
+C:\Users\Remus Iftimie\Personal_GitHub\Advanced_Collections\obj\Debug\netcoreapp3.1\Advanced_Collections.dll
+C:\Users\Remus Iftimie\Personal_GitHub\Advanced_Collections\obj\Debug\netcoreapp3.1\Advanced_Collections.pdb
